@@ -1,6 +1,3 @@
-# assesment
-Technology Assesment
-
 retail store discount billing system
 ======================================
 
